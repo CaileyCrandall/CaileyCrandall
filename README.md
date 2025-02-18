@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaileyCrandall
+👋 Hi, I’m @CaileyCrandall
 
 
 I'm a computational math student at the University of South Florida, concentrating on **Discrete Math** and **Cryptography**. I have a strong interest in **applied mathematics**, and I enjoy exploring how mathematical principles can be used to solve real-world problems.
