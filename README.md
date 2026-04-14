@@ -1,19 +1,42 @@
-👋 Hi, I’m @CaileyCrandall
+# Hi, I'm Cailey 👋
 
+I'm a mathematics student at the University of South Florida with interests in discrete mathematics, cryptography, coding theory, statistics, and data analysis. I enjoy solving complex problems, learning new technical tools, and building projects that connect theory with real-world applications.
 
-I'm a computational math student at the University of South Florida, concentrating on **Discrete Math** and **Cryptography**. I have a strong interest in **applied mathematics**, and I enjoy exploring how mathematical principles can be used to solve real-world problems.
+## About Me
 
-My current focus includes **cryptography**, **coding theory**, and **math modeling**. I am always seeking opportunities to learn and grow, whether through internships, side projects, or collaborations.
+* 🎓 Math student focused on discrete math and cryptography
+* 🔐 Interested in cybersecurity, cryptography, and error-correcting codes
+* 📊 Experience with statistical modeling, regression, hypothesis testing, and large datasets
+* 💻 Learning and using tools such as R, Python, SageMath, Git, and GitHub
+* 📚 Strong interest in algebra, probability, and mathematical problem solving
 
-### Things I Enjoy:
-- **Rock climbing** 🧗‍♀️
-- **Traveling** ✈️
-- **Movies** 🎥 
-- **Math** 📐
-- **Skiing** 🏔️ 
-Feel free to check out my repositories, where you’ll find my projects and contributions to various math and coding-related topics!
+## Current Projects
 
-<!---
-CaileyCrandall/CaileyCrandall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Ultra-marathon data analysis project using R and large-scale race datasets
+* Mathematical modeling projects involving coding theory and information theory
+* Exploring cryptography and algorithmic problem solving
+* Building technical skills through coding challenges and data projects
+
+## Technical Skills
+
+**Languages & Tools**
+R • Python • SageMath • Git • GitHub • LaTeX • RStudio
+
+**Mathematics & Analytics**
+Statistics • Regression • Hypothesis Testing • Abstract Algebra • Number Theory • Discrete Math • Data Cleaning • Data Visualization
+
+## Goals
+
+* Begin a career in cryptography, cybersecurity, or data-driven technical roles
+* Continue developing strong programming and mathematical skills
+* Build meaningful projects that demonstrate analytical ability and technical depth
+
+## Fun Facts
+
+* I enjoy challenging quantitative problems
+* I like turning abstract ideas into practical projects
+* Always learning something new
+
+## Connect With Me
+
+Feel free to explore my repositories and projects.
